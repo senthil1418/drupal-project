@@ -1,9 +1,9 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: 1bd0a4f9-e3bf-4485-9e91-bb703cb82e70
-name: 'Hotel Website'
-mail: akshay.swnt22@gmail.com
+uuid: b72bd8ce-29f8-45cb-a859-32344b16131c
+name: 'My Web Portal'
+mail: myweb@gmail.com
 slogan: ''
 page:
   403: ''

@@ -1,4 +1,4 @@
-uuid: c15c5809-6574-4e28-bbac-8e5de1c1decd
+uuid: d44d561e-4ed6-4513-9cd2-722f75cde848
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - akshay.swnt22@gmail.com
+  - myweb@gmail.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
